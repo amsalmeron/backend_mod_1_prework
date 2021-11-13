@@ -4,10 +4,15 @@
 
 # Build a Bear
 
+# Create method (function) to build a bear with 5 arguments
 def build_a_bear(name, age, fur, clothes, special_power)
+  
+# Set varibales that integrate arguments for building a bear
   greeting = "Hey partner! My name is #{name} - will you be my friend?!"
   demographics = [name, age]
   power_saying = "Did you know that I can #{special_power}?"
+  
+# Creates a hash that holds importants keys representing common traits of a bear
   built_bear = {
     'basic_info' => demographics,
     'clothes' => clothes,
@@ -16,9 +21,12 @@ def build_a_bear(name, age, fur, clothes, special_power)
     'sayings' => [greeting, power_saying, "Goodnight my friend!"],
     'is_cuddly' => true,
   }
+  
+# Return values of the hash
   return built_bear
 end
 
+# Call build_a_bear method using arguments provided to create a new bear
 build_a_bear('Fluffy', 4, 'brown', ['pants', 'jorts', 'tanktop'], 'give you nightmares')
 build_a_bear('Sleepy', 2, 'purple', ['pajamas', 'sleeping cap'], 'sleeping in')
 
