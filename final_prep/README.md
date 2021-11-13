@@ -51,6 +51,9 @@ As part of Turing's project-based learning approach, you will often be working i
 - [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
   - [x] Add a link to your gist here: (https://gist.github.com/amsalmeron/84e1bd6e3bae2c1d8fc3627327635e76)
 
+### Gear Up Prep
+Here is the link to the gear up exercise: (https://gist.github.com/amsalmeron/6c2e8082ea430aa05d11964dd6fc920b)
+
 ## All Done? How to Submit your M1 Prework
 When you have completed *all* the activities described above, follow the steps below to submit your technical prework.
 
